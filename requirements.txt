@@ -1,0 +1,7 @@
+pymongo
+pandas
+redis
+boto3
+numpy
+beautifulsoup4
+lxml
